@@ -7,7 +7,7 @@ This project aims to develop a **MATLAB/Simulink-based Drug Delivery System** fo
 - **Simulation Software**: MATLAB and Simulink
 - **Modeling Techniques**: First-order and second order modeling, stability criteria
 - **Control Design**: Proportional, Integral, and Derivative (PID) control methods
-- 
+
 ## Expected Results
 - Accurate system identification of the drug delivery system.
 - A robust control system that effectively manages drug dosage.
